@@ -1,0 +1,10 @@
+.section-title_theme_dark {
+  margin: 90px auto 0;
+  width: 60%;
+  text-align: center;
+  padding: 0;
+  line-height: 1.15; /*высота строки*/
+  font-size: 60px; /*размер шрифта*/
+  font-weight: 600; /*начертание шрифта*/
+  color: white;
+}

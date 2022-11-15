@@ -1,0 +1,8 @@
+.table__heading {
+  margin: 0;
+  bottom: 0;
+  line-height: 1.15; /*высота строки*/
+  font-size: 24px; /*размер шрифта*/
+  font-weight: 600; /*начертание шрифта*/
+  text-align: -webkit-match-parent;
+}

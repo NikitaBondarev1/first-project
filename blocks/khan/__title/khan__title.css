@@ -1,0 +1,7 @@
+.khan__title {
+  margin: 0;
+  padding: 0;
+  line-height: 1.15; /*высота строки*/
+  font-size: 60px; /*размер шрифта*/
+  font-weight: 600; /*начертание шрифта*/
+}

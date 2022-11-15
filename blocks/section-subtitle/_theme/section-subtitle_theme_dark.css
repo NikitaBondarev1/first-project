@@ -1,0 +1,8 @@
+.section-subtitle_theme_dark {
+  margin: 20px auto 0;
+  line-height: 34px; /*высота строки*/
+  font-size: 24px; /*размер шрифта*/
+  font-weight: normal; /*начертание шрифта*/
+  text-align: center;
+  color: #f2f2f2;
+}

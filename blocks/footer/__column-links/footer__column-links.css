@@ -1,0 +1,8 @@
+.footer__column-links {
+  margin: 20px 0 16px 0;
+  padding: 0;
+  line-height: 30px; /*высота строки*/
+  font-size: 18px; /*размер шрифта*/
+  font-weight: normal; /*начертание шрифта*/
+  list-style-type: none;
+}

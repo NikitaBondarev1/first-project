@@ -1,0 +1,8 @@
+.table__heading_theme_dark {
+  margin: 0;
+  bottom: 0;
+  line-height: 1.15; /*высота строки*/
+  font-size: 24px; /*размер шрифта*/
+  font-weight: 600; /*начертание шрифта*/
+  color: #f2f2f2;
+}

@@ -1,0 +1,11 @@
+.two-columns__brief {
+  width: 175px;
+  margin-top: 0;
+  margin-bottom: 0;
+  color: #2f80ed;
+  line-height: 1.2; /*высота строки*/
+  font-size: 18px; /*размер шрифта*/
+  font-weight: normal; /*начертание шрифта*/
+  text-align: left;
+  display: block;
+} /*Текст "Главные проблемы обучения"*/
